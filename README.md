@@ -3,7 +3,7 @@
 ####Language:
 - JAVA
 
-####API:
+####API: 
 - Swing
 - Jsoup
 
@@ -13,6 +13,7 @@ Al- Imran Ahmed
 BANGLADESH
 
 ####Description:
+>>>>>>> 9f2db81f20a38881bf2ad25abcc948b38be8cedf
 A simple latest NEWS checker made by using JAVA. There is a run.sh file in the project root directory. This file actually compile and run the projects. The src directory contains the java files and class files. The lib directory contains the requried library files.
 Running this program will show up a window with the list of latest headlines of prothom-alo(http://www.prothom-alo.com/) newspaper.
 ####How to run:
