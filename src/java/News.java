@@ -7,6 +7,7 @@ public class News{
        for(int i = 0; i < number; i++){
            //<h3><a href= found
            int found = htmlPage.indexOf("<h3><a href=");
+           //System.out.println("Found at "+found);
            //String after <h3><a href=
            String afterH3 = htmlPage.substring(found);
            //News heading start

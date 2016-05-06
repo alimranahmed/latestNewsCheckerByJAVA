@@ -15,10 +15,10 @@ public class View extends JFrame{
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setUndecorated(true);//to hide minimize and maximize buttons
         this.setLocation((int)screenSize.getWidth() - width, 25);
-        this.add(this.windowPanel);
+
         this.setLayout(null);
         this.setResizable(false);
-
+        this.add(this.windowPanel);
         this.windowPanel.setBounds(rightPadding, topPadding, width - rightPadding, height - topPadding);
         this.setVisible(true);
     }
