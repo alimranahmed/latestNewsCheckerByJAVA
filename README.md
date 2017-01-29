@@ -9,5 +9,5 @@ A simple latest NEWS checker made using JAVA. There is a run.sh file in the proj
 - Jsoup
 
 #### How to run:
-- In Linux: Go to the root directory then run this command in terminal: `sh run.sh`
-- In Windows: Compile and run all the files of /src/java using Java Virtual Machine(JVM) with the library of /lib directory
+- *In Linux:* Go to the root directory of the project then run the following command in terminal: `sh run.sh`
+- *In Windows:* Compile and run all the files of /src/java using Java Virtual Machine(JVM) with the library of /lib directory
