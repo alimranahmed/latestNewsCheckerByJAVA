@@ -11,3 +11,6 @@ A simple latest NEWS checker made using JAVA. There is a run.sh file in the proj
 #### How to run:
 - *In Linux:* Go to the root directory of the project then run the following command in terminal: `sh run.sh`
 - *In Windows:* Compile and run all the files of /src/java using Java Virtual Machine(JVM) with the library of /lib directory
+
+#### Screenshot:
+![Latest News Checker](https://cloud.githubusercontent.com/assets/7629427/22521816/88d702fc-e8e3-11e6-86e3-3885e8879f24.png)
