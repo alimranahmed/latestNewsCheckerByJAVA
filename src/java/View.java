@@ -4,7 +4,7 @@ import java.util.*;
 import java.awt.*;
 public class View extends JFrame{
     private JPanel windowPanel = new JPanel();
-    Font headingFont = new Font("Serif", Font.PLAIN, 18);
+    Font headingFont = new Font("Noto Serif Bengali", Font.PLAIN, 18);
     int height = 400;
     int width = 400;
     int rightPadding = 10;
